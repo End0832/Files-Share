@@ -29,11 +29,38 @@
 
 ### 1REG:
 
-2DE
+## Seconde:
+### 2DEA:
 
-3EME
+### 2DEB:
 
-4e
+### 2DEC:
+
+### 2DED:
+
+### 2DEE:
+
+### 2DEF:
+
+### 2DEG:
+
+## Troisième:
+### 3EME1:
+
+### 3EME2:
+
+### 3EME3:
+
+### 3EME4:
+
+### 3EME5:
+
+### 3EME6:
+
+### 3EME7:
+
+## Quatrième:
+### 4e
 
 5e
 
