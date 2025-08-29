@@ -1,33 +1,33 @@
-#Liste des classes de Thérèse d'Avilà 2025-2026:
-##Terminale:
-###TA:
+# Liste des classes de Thérèse d'Avilà 2025-2026:
+## Terminale:
+### TA:
 
-###TB:
+### TB:
 
-###TC:
+### TC:
 
-###TD:
+### TD:
 
-###TE:
+### TE:
 
-###TF:
+### TF:
 
-###TG:
+### TG:
 
-##Première:
-###1EREA:
+## Première:
+### 1REA:
 
-###1EREB:
+### 1REB:
 
-###1EREC:
+### 1REC:
 
-###1ERED:
+### 1RED:
 
-###1EREE:
+### 1REE:
 
-###1EREF:
+### 1REF:
 
-###1EREG:
+### 1REG:
 
 2DE
 
